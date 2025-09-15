@@ -6,3 +6,7 @@
 ```javascript
 let notMyPresident = "jowoki ngentowd";
 ```
+
+- [x] Turn on Github Pages
+- [ ] Outline my Porto
+- [ ] Introduce myself to the world
