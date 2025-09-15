@@ -2,3 +2,7 @@
 ##### Mampus lu nyusahin rakyat kecil
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+let notMyPresident = "jowoki ngentowd";
+```
